@@ -18,6 +18,13 @@
 
 ## Usage
 💻 
+![screencapture-file-C-Users-joeyb-Desktop-web-development-course-modules-10-object-oriented-programming-challenge-team-profile-generator-dist-index-html-2022-08-24-17_13_21](https://user-images.githubusercontent.com/98803950/186545861-9e128a5a-9cc8-44b6-8bb1-d17b9538f13d.png)
+
+
+
+https://user-images.githubusercontent.com/98803950/186545938-d359f954-9a02-4cb4-a247-bffa590c0f25.mp4
+
+
 
 
 
